@@ -87,15 +87,6 @@ I enjoy transforming ideas into real-world digital solutions using clean code, e
 ✔ Deployment & Hosting  
 ✔ Debugging & Performance Optimization  
 
----
-
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jome1204&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jome1204&layout=compact&theme=github_dark)
-
----
 
 # 📈 Profile Visitors:
 
