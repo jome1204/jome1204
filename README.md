@@ -91,11 +91,9 @@ I enjoy transforming ideas into real-world digital solutions using clean code, e
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=jome1204&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jome1204&show_icons=true&theme=github_dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=jome1204&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jome1204&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jome1204&layout=compact&theme=github_dark)
 
 ---
 
